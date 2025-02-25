@@ -2,7 +2,7 @@
 using BepInEx; 
 using BepInEx.Logging;
 using HarmonyLib;
-using SodaMod.Items.Minerals; //change this to proper path to items. 
+using SodaMod.Items.Minerals; //change this to proper path of items. 
 
 namespace SodaMod { 
 
