@@ -1,8 +1,8 @@
 ﻿using System.Reflection;
-using BepInEx;
+using BepInEx; 
 using BepInEx.Logging;
 using HarmonyLib;
-using SodaMod.Items.Minerals;
+using SodaMod.Items.Minerals; //change this to proper path to items. 
 
 namespace SodaMod { 
 
